@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in ViewController.inizio(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = ".seconds(secondi)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.inizio(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bottone.titleLabel?.font.fontName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
